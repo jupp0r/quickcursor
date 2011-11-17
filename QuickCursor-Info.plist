@@ -34,6 +34,7 @@
 	<string>NSApplication</string>
 	<key>QCEditInChoices</key>
 	<array>
+		<string>com.chocolatapp.Chocolat</string>
 		<string>org.gnu.Aquamacs</string>
 		<string>com.barebones.bbedit</string>
 		<string>com.metaclassy.byword</string>
